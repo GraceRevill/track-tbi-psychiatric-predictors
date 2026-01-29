@@ -8,7 +8,7 @@ This repository contains:
 
 1. [Revill_et_al_preprocessing.R](https://github.com/GraceRevill/track-tbi-psychiatric-predictors/blob/main/Revill_et_al_preprocessing.R) - R script to complete data cleaning, pre-processing and missing data analysis
 2. [Revill_et_al_analysis_glmmTMB.R](https://github.com/GraceRevill/track-tbi-psychiatric-predictors/blob/main/Revill_et_al_analysis_glmmTMB.R) - R script to complete main analysis
-3. [Revill_et_al_visualisation.R] (https://github.com/GraceRevill/track-tbi-psychiatric-predictors/blob/main/Revill_et_al_visualisation.R) - R script to complete visualisation 
+3. [Revill_et_al_visualisation.R](https://github.com/GraceRevill/track-tbi-psychiatric-predictors/blob/main/Revill_et_al_visualisation.R) - R script to complete visualisation 
 
 # Dataset
 The TRACK-TBI study was a prospective, multicentre observational study of ~3000 participants recruited from 18 level 1 trauma centres across the United States between 2014 and 2019. Outcome assessments were conducted at 2 weeks and 3-, 6- and 12-months post-injury. Approval from the relevant Institutional Review Boards was secured prior to data collection at each site, and participants or their legally authorised representatives provided written informed consent to participate. Approval for the current study was granted by the University College London Ethics Committee <br> 
